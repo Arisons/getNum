@@ -54,7 +54,8 @@
 
 ```js
 	
-	// George,John,Thomas,James,Adrew,Martin,Adrew,George,James,John,Martin,Thomas
+	// George,John,Thomas,James,Adrew,Martin,
+	// Adrew,George,James,John,Martin,Thomas
 
 ```
 
